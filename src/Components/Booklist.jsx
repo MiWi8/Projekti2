@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import BookCard from "./Bookcard";
-import booksData from "../Data/Books.json";
+
 
 function BookList() {
   const [books, setBooks] = useState([]);
