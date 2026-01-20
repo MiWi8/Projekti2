@@ -1,0 +1,14 @@
+.backround-color {
+    background-color: #ffffff;
+    padding-bottom: 80px;
+}
+
+.footer {
+    background-color: #97ff9b;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+

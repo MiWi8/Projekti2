@@ -1,0 +1,26 @@
+.mybutton {
+    padding: 10px 20px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #97ff9b;
+    color: black;
+}
+
+.mybutton:hover {
+    background-color: #c1ffc4;
+}
+
+.rightsidebuttons {
+    float: right;
+    padding: 10px 20px;
+    border: 1px solid #333;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #97ff9b;
+    color: black;
+}
+
+.rightsidebuttons:hover {
+    background-color: #c1ffc4;
+}
