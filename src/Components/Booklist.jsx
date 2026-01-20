@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import BookCard from "./BookCard";
+import BookCard from "./Bookcard";
 import booksData from "../Data/Books.json";
 
 function BookList() {
